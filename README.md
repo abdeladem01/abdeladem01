@@ -8,7 +8,7 @@ Have been seriously coding since 2019. Have learned many languages, everything i
 
 * 🌍  I'm based in Lyon
 * ✉️  You can contact me at [abdeladem-saoud.fattah@insa-lyon.fr](mailto:abdeladem-saoud.fattah@insa-lyon.fr)
-* 🧠  I'm learning Vue.JS
+* 🧠  I'm learning Ansible
 
 ### Skills
 
