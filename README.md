@@ -43,10 +43,3 @@ Have been seriously coding since 2019. Have learned many languages, everything i
 
 <a href="https://github.com/abdeladem01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeladem01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/abdeladem01/Projet_Simulation_ELP_G5" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdeladem01&repo=Projet_Simulation_ELP_G5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/abdeladem01/PPC_Cambiecolo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdeladem01&repo=PPC_Cambiecolo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/abdeladem01/WebXplorer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdeladem01&repo=WebXplorer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/abdeladem01/Pendu" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdeladem01&repo=Pendu&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
